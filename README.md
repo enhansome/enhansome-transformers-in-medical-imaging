@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,797 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,207 | 🐛 104 | 📅 2026-06-30
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,671 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,672 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -346,15 +346,15 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **An uncertainty-aware transformer for MRI cardiac semantic segmentation via mean teachers.** \[25th Jul, 2022] \[MIUA, 2022].<br>
 *Ziyang Wang, Jian-Qing Zheng, Irina Voiculescu.*<br>
-\[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-12053-4_37)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 120 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
+\[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-12053-4_37)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 118 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
 
 **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision.** \[16th Oct, 2022] \[ICIP, 2022].<br>
 *Ziyang Wang, Nanqing Dong, Irina Voiculescu.*<br>
-\[[PDF](https://ieeexplore.ieee.org/abstract/document/9897482/)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 120 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
+\[[PDF](https://ieeexplore.ieee.org/abstract/document/9897482/)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 118 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
 
 **Adversarial Vision Transformer for Medical Image Semantic Segmentation with Limited Annotations.** \[21st Nov, 2022] \[BMVC, 2022].<br>
 *Ziyang Wang, Chengkuan Zhao, Zixuan Ni.*<br>
-\[[PDF](https://bmvc2022.mpi-inf.mpg.de/1002.pdf)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 120 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
+\[[PDF](https://bmvc2022.mpi-inf.mpg.de/1002.pdf)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 118 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
 
 **DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation.** \[21st Dec., 2022].<br>
 *Feilong Tang, Qiming Huang, Jinfeng Wang, Xianxu Hou, Jionglong Su, Jingxin Liu.*<br>
@@ -362,7 +362,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **When cnn meet with vit: Towards semi-supervised learning for multi-class medical image semantic segmentation.** \[12th Feb., 2023] \[ECCV Workshop, 2022].<br>
 *Ziyang Wang, Tianze Li, Jian-Qing Zheng, Baoru Huang.*<br>
-\[[PDF](https://arxiv.org/abs/2208.06449)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 120 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
+\[[PDF](https://arxiv.org/abs/2208.06449)]\[[Github](https://github.com/ziyangwang007/CV-SSL-MIS) ⭐ 118 | 🐛 14 | 🌐 Python | 📅 2024-09-08]
 
 **DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation.** \[27th Jan., 2023].<br>
 *Reza Azad, René Arimond, Ehsan Khodapanah Aghdam, Amirhossein Kazerouni, Dorit Merhof.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
