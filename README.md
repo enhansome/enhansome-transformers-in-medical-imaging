@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,207 | 🐛 104 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -166,7 +166,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers.** \[16th August, 2021].<br>
 *Bo Dong, Wenhai Wang, Deng-Ping Fan, Jinpeng Li, Huazhu Fu, Ling Shao.*<br>
-\[[PDF](https://arxiv.org/abs/2108.06932)] \[[Github](https://github.com/DengPingFan/Polyp-PVT) ⭐ 263 | 🐛 7 | 🌐 Python | 📅 2023-11-01]
+\[[PDF](https://arxiv.org/abs/2108.06932)] \[[Github](https://github.com/DengPingFan/Polyp-PVT) ⭐ 264 | 🐛 7 | 🌐 Python | 📅 2023-11-01]
 
 **Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation.** \[26th August, 2021].<br>
 *Cam Nguyen, Zuhayr Asad, Yuankai Huo.*<br>
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,672 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,673 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -294,7 +294,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks.** \[28th Feb., 2022].<br>
 *Yunhe Gao, Mu Zhou, Di Liu, Dimitris Metaxas.*<br>
-\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 344 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
+\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 341 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
 
 **Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation.** \[1st March, 2022].<br>
 *Christoforos Galazis, Huiyi Wu, Zhuoyu Li, Camille Petri, Anil A. Bharath, Marta Varela.*<br>
@@ -637,7 +637,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMorph: Transformer for unsupervised medical image registration.** \[19th Nov., 2021].<br>
 *Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 631 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 632 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **A Transformer-based Network for Deformable Medical Image Registration.** \[24th Feb., 2022].<br>
 *Yibo Wang, Wen Qian, Xuming Zhang.*<br>
@@ -833,11 +833,11 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis.** \[29th March, 2022]. \[MIDL, 2022]<br>
 *Simon Dahan, Abdulah Fawaz, Logan Z. J. Williams, Chunhui Yang, Timothy S. Coalson, Matthew F. Glasser, A. David Edwards, Daniel Rueckert, Emma C. Robinson.*<br>
-\[[PDF](https://arxiv.org/abs/2203.16414)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
+\[[PDF](https://arxiv.org/abs/2203.16414)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
 
 **Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces.** \[7th April, 2022]. \[MIDL, 2022]<br>
 *Simon Dahan, Hao Xu, Logan Z. J. Williams, Abdulah Fawaz, Chunhui Yang, Timothy S. Coalson, Michelle C. Williams, David E. Newby, A. David Edwards, Matthew F. Glasser, Alistair A. Young, Daniel Rueckert, Emma C. Robinson.*<br>
-\[[PDF](https://arxiv.org/abs/2204.03408)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
+\[[PDF](https://arxiv.org/abs/2204.03408)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
 
 **3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume.** \[14th April, 2022]. \[MIDL, 2022]<br>
 *Jianye Pang, Cheng Jiang, Yihao Chen, Jianbo Chang, Ming Feng, Renzhi Wang, Jianhua Yao.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
