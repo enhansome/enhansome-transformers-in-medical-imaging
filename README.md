@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,048 | 🐛 105 | 📅 2026-08-18
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -166,7 +166,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers.** \[16th August, 2021].<br>
 *Bo Dong, Wenhai Wang, Deng-Ping Fan, Jinpeng Li, Huazhu Fu, Ling Shao.*<br>
-\[[PDF](https://arxiv.org/abs/2108.06932)] \[[Github](https://github.com/DengPingFan/Polyp-PVT) ⭐ 264 | 🐛 7 | 🌐 Python | 📅 2023-11-01]
+\[[PDF](https://arxiv.org/abs/2108.06932)] \[[Github](https://github.com/DengPingFan/Polyp-PVT) ⭐ 265 | 🐛 7 | 🌐 Python | 📅 2023-11-01]
 
 **Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation.** \[26th August, 2021].<br>
 *Cam Nguyen, Zuhayr Asad, Yuankai Huo.*<br>
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,673 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,674 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -380,7 +380,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification.** \[2nd June, 2021] \[⚡NeurIPS, 2021].<br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2106.00908)] \[[Github](https://github.com/szc19990412/TransMIL) ⭐ 493 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://arxiv.org/abs/2106.00908)] \[[Github](https://github.com/szc19990412/TransMIL) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Vision Transformer-based recognition of diabetic retinopathy grade.** \[15 July, 2021] \[⚡CVPR, 2021].<br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
