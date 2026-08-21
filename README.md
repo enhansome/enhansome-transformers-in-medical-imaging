@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,048 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,486 | 🐛 105 | 📅 2026-08-18
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -74,7 +74,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** \[8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,231 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,232 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** \[16th Feb., 2021] \[⚡MICCAI, 2021].<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
