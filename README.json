@@ -30,7 +30,7 @@
             "last_commit": "2026-02-25T04:44:14Z",
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3233
+            "stars": 3234
           }
         },
         {
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:30.757Z",
+    "last_updated": "2026-08-25T06:05:22.737Z",
     "original_repository": "fahadshamshad/awesome-transformers-in-medical-imaging",
     "original_repository_id": 434747216,
     "original_repository_sha": "d7768e4860d121cbbb5c19bc81ec83d79cc893e0",
