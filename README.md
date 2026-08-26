@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,788 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,076 | 🐛 106 | 📅 2026-08-21
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -230,7 +230,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A Volumetric Transformer for Accurate 3D Tumor Segmentation.** \[26th Nov., 2021].<br>
 *Himashi Peiris, Munawar Hayat, Zhaolin Chen, Gary Egan, Mehrtash Harandi.*<br>
-\[[PDF](https://arxiv.org/abs/2111.13300)] \[[Github](https://github.com/himashi92/vt-unet) ⭐ 276 | 🐛 7 | 🌐 Python | 📅 2023-09-11]
+\[[PDF](https://arxiv.org/abs/2111.13300)] \[[Github](https://github.com/himashi92/vt-unet) ⭐ 277 | 🐛 7 | 🌐 Python | 📅 2023-09-11]
 
 **Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction.** \[26th Nov., 2021].<br>
 *Xiangyu Meng, Xudong Zhang, Gan Wang, Ying Zhang, Xin Shi, Huanhuan Dai, Zixuan Wang, Xun Wang.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

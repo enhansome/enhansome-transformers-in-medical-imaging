@@ -315,7 +315,7 @@
             "last_commit": "2023-09-11T15:13:53Z",
             "owner": "himashi92",
             "repo": "VT-UNet",
-            "stars": 276
+            "stars": 277
           }
         },
         {
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:39:38.251Z",
+    "last_updated": "2026-08-26T12:42:45.038Z",
     "original_repository": "fahadshamshad/awesome-transformers-in-medical-imaging",
     "original_repository_id": 434747216,
     "original_repository_sha": "d7768e4860d121cbbb5c19bc81ec83d79cc893e0",
