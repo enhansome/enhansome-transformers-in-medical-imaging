@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,076 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,371 | 🐛 105 | 📅 2026-08-21
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,675 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,676 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -294,7 +294,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks.** \[28th Feb., 2022].<br>
 *Yunhe Gao, Mu Zhou, Di Liu, Dimitris Metaxas.*<br>
-\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 342 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
+\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 344 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
 
 **Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation.** \[1st March, 2022].<br>
 *Christoforos Galazis, Huiyi Wu, Zhuoyu Li, Camille Petri, Anil A. Bharath, Marta Varela.*<br>
@@ -697,7 +697,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **SwinFPN: Leveraging Vision Transformers for 3D Organs-At-Risk Detection.** \[9th May, 2022] \[MIDL Short Paper, 2022].<br>
 *Bastian Wittmann, Suprosanna Shit, Fernando Navarro, Jan C. Peeken, Stephanie E. Combs, Bjoern Menze.*<br>
-\[[PDF](https://openreview.net/forum?id=yiIz7DhgRU5)] \[[Github](https://github.com/bwittmann/transoar) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-07-16]
+\[[PDF](https://openreview.net/forum?id=yiIz7DhgRU5)] \[[Github](https://github.com/bwittmann/transoar) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2024-07-16]
 
 **An Effective Transformer-based Solution for RSNA Intracranial Hemorrhage Detection Competition.** \[16th May, 2022].<br>
 *Fangxin Shang, Siqi Wang, Xiaorong Wang, Yehui Yang.*<br>
@@ -705,7 +705,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Focused Decoding Enables 3D Anatomical Detection by Transformers.** \[27th February, 2023] \[MELBA, 2023].<br>
 *Bastian Wittmann, Fernando Navarro, Suprosanna Shit, Bjoern Menze.*<br>
-\[[PDF](https://www.melba-journal.org/papers/2023:003.html)] \[[Github](https://github.com/bwittmann/transoar) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-07-16]
+\[[PDF](https://www.melba-journal.org/papers/2023:003.html)] \[[Github](https://github.com/bwittmann/transoar) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2024-07-16]
 
 # Clinical-Report-Generation
 
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
