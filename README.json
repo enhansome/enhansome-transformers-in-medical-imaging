@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official and maintained implementation of the paper \"Attention-Based Transformers for Instance Segmentation of Cells in Microstructures\" [BIBM 2020].",
+            "homepage": "https://arxiv.org/pdf/2011.09763",
             "id": 310357344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-28T00:36:03Z",
+            "open_issues": 4,
             "owner": "ChristophReich1996",
             "repo": "Cell-DETR",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "attention",
+              "bibm-2020",
+              "cell-detr",
+              "cell-segmentation",
+              "deep-learning",
+              "instance-segmentation",
+              "synthetic-biology",
+              "system-biology",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.",
+            "homepage": null,
             "id": 336978043,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-25T04:44:14Z",
+            "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3234
+            "stars": 3234,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo holds the code of TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation",
+            "homepage": null,
             "id": 348328050,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-26T14:08:02Z",
+            "open_issues": 0,
             "owner": "Rayicer",
             "repo": "TransFuse",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MICCAI2021] CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation",
+            "homepage": null,
             "id": 344390337,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-17T05:34:21Z",
+            "open_issues": 4,
             "owner": "YtongXie",
             "repo": "CoTr",
-            "stars": 334
+            "stars": 334,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 344761772,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-18T08:07:22Z",
+            "open_issues": 4,
             "owner": "boxiangyun",
             "repo": "SpecTr",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -90,12 +125,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021.  2) TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images(https://arxiv.org/abs/2201.12785).",
+            "homepage": null,
             "id": 344778476,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
+            "open_issues": 37,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "medical-image-segmentation",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -106,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 355738298,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-27T02:11:52Z",
+            "open_issues": 5,
             "owner": "HXLH50K",
             "repo": "U-Net-Transformer",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -122,12 +171,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of recent research prototypes/demonstrations using MONAI.",
+            "homepage": "https://project-monai.github.io/",
             "id": 296285350,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-06T22:41:24Z",
+            "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220
+            "stars": 1220,
+            "topics": [
+              "monai",
+              "monai-components",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -138,12 +196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical Image Segmentation using Squeeze-and-Expansion Transformers",
+            "homepage": null,
             "id": 366273328,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-15T05:37:59Z",
+            "open_issues": 10,
             "owner": "askerlee",
             "repo": "segtran",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -154,12 +217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 377020167,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-28T10:44:51Z",
+            "open_issues": 4,
             "owner": "JiYuanFeng",
             "repo": "MCTrans",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -170,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical Image Segmentation using Squeeze-and-Expansion Transformers",
+            "homepage": null,
             "id": 366273328,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-15T05:37:59Z",
+            "open_issues": 10,
             "owner": "askerlee",
             "repo": "segtran",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -186,12 +259,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021.  2) TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images(https://arxiv.org/abs/2201.12785).",
+            "homepage": null,
             "id": 344778476,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
+            "open_issues": 37,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "medical-image-segmentation",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -202,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For medical image segmentation",
+            "homepage": null,
             "id": 382989615,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-29T00:50:45Z",
+            "open_issues": 3,
             "owner": "apple1986",
             "repo": "LeViT-UNet",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -218,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, AIR 2023.",
+            "homepage": null,
             "id": 389960740,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-01T06:41:31Z",
+            "open_issues": 7,
             "owner": "DengPingFan",
             "repo": "Polyp-PVT",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -234,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 389026866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-05T06:04:00Z",
+            "open_issues": 78,
             "owner": "282857341",
             "repo": "nnFormer",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -250,12 +347,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of our AAAI'22 work: 'UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer'.",
+            "homepage": null,
             "id": 369066661,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-19T08:07:03Z",
+            "open_issues": 0,
             "owner": "McGregorWwww",
             "repo": "UCTransNet",
-            "stars": 437
+            "stars": 437,
+            "topics": [
+              "deep-learning",
+              "pytorch",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -266,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 394489295,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-17T03:17:21Z",
+            "open_issues": 1,
             "owner": "Kent0n-Li",
             "repo": "GT-U-Net",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -282,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transformer Assisted Convolutional Neural Network for Cell Instance Segmentation [SegPC-2021]",
+            "homepage": null,
             "id": 352649796,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-13T06:07:42Z",
+            "open_issues": 2,
             "owner": "dsciitism",
             "repo": "SegPC-2021",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -298,12 +414,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MICCAI 2021] Boundary-aware Transformers for Skin Lesion Segmentation",
+            "homepage": null,
             "id": 385191583,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-05T07:59:49Z",
+            "open_issues": 4,
             "owner": "jcwang123",
             "repo": "BA-Transformer",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "miccai",
+              "pytorch",
+              "skin-lesion-segmentation",
+              "transformer-architecture"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -314,12 +440,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for *Mixed Transformer UNet for Medical Image Segmentation*",
+            "homepage": null,
             "id": 413481284,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T07:12:28Z",
+            "open_issues": 11,
             "owner": "Dootmaan",
             "repo": "MT-UNet",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "deep-learning",
+              "medical-imaging",
+              "segmentation",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -330,12 +466,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MICCAI2022] This is an official PyTorch implementation for A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation",
+            "homepage": null,
             "id": 432005336,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-11T15:13:53Z",
+            "open_issues": 7,
             "owner": "himashi92",
             "repo": "VT-UNet",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "3d-medical-imaging-segmentation",
+              "brats-dataset",
+              "deep-learning",
+              "mri",
+              "pure-transformer",
+              "pytorch",
+              "pytorch-implementation",
+              "segmentation",
+              "semantic-segmentation",
+              "transformer",
+              "tumor-segmentation",
+              "vision-transformer",
+              "volumetric-transformer",
+              "vtunet"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -346,12 +502,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of recent research prototypes/demonstrations using MONAI.",
+            "homepage": "https://project-monai.github.io/",
             "id": 296285350,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-06T22:41:24Z",
+            "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220
+            "stars": 1220,
+            "topics": [
+              "monai",
+              "monai-components",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -362,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 434502721,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-03T09:09:51Z",
+            "open_issues": 2,
             "owner": "JingyeChen",
             "repo": "MT-TransUNet",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -378,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of our FAT-Net (Medical Image Analysis)",
+            "homepage": null,
             "id": 428496338,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-11T10:30:41Z",
+            "open_issues": 2,
             "owner": "SZUcsh",
             "repo": "FAT-Net",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -394,12 +569,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi Supervised Learning for Medical Image Segmentation, a collection of literature reviews and code implementations.",
+            "homepage": null,
             "id": 298459550,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-07T04:37:09Z",
+            "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2677
+            "stars": 2677,
+            "topics": [
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -410,12 +592,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of recent research prototypes/demonstrations using MONAI.",
+            "homepage": "https://project-monai.github.io/",
             "id": 296285350,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-06T22:41:24Z",
+            "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220
+            "stars": 1220,
+            "topics": [
+              "monai",
+              "monai-components",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -426,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 402356581,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-15T02:29:12Z",
+            "open_issues": 3,
             "owner": "itruonghai",
             "repo": "SegTransVAE",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -442,12 +638,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021.  2) TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images(https://arxiv.org/abs/2201.12785).",
+            "homepage": null,
             "id": 344778476,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
+            "open_issues": 37,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "medical-image-segmentation",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -458,12 +663,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch framework for medical image segmentation",
+            "homepage": null,
             "id": 445364678,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-15T03:04:34Z",
+            "open_issues": 8,
             "owner": "yhygao",
             "repo": "CBIM-Medical-Image-Segmentation",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "deep-learning",
+              "medical-image-segmentation",
+              "medical-imaging",
+              "pytorch",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -474,12 +690,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of recent research prototypes/demonstrations using MONAI.",
+            "homepage": "https://project-monai.github.io/",
             "id": 296285350,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-06T22:41:24Z",
+            "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220
+            "stars": 1220,
+            "topics": [
+              "monai",
+              "monai-components",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -490,12 +715,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of recent research prototypes/demonstrations using MONAI.",
+            "homepage": "https://project-monai.github.io/",
             "id": 296285350,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-06T22:41:24Z",
+            "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220
+            "stars": 1220,
+            "topics": [
+              "monai",
+              "monai-components",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -506,12 +740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring CNN and ViT for Semi-Supervised Medical Image Segmentation",
+            "homepage": null,
             "id": 521027501,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-08T23:00:05Z",
+            "open_issues": 14,
             "owner": "ziyangwang007",
             "repo": "CV-SSL-MIS",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -522,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring CNN and ViT for Semi-Supervised Medical Image Segmentation",
+            "homepage": null,
             "id": 521027501,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-08T23:00:05Z",
+            "open_issues": 14,
             "owner": "ziyangwang007",
             "repo": "CV-SSL-MIS",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -538,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring CNN and ViT for Semi-Supervised Medical Image Segmentation",
+            "homepage": null,
             "id": 521027501,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-08T23:00:05Z",
+            "open_issues": 14,
             "owner": "ziyangwang007",
             "repo": "CV-SSL-MIS",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -554,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring CNN and ViT for Semi-Supervised Medical Image Segmentation",
+            "homepage": null,
             "id": 521027501,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-08T23:00:05Z",
+            "open_issues": 14,
             "owner": "ziyangwang007",
             "repo": "CV-SSL-MIS",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -570,12 +824,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MICCAI 2023] DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation",
+            "homepage": "https://arxiv.org/abs/2212.13504",
             "id": 581221740,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-12T14:07:09Z",
+            "open_issues": 12,
             "owner": "xmindflow",
             "repo": "DAEFormer",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "deep-learning",
+              "efficient-transformers",
+              "medical-image-analysis",
+              "medical-image-segmentation",
+              "pytorch",
+              "segmentation",
+              "transformer",
+              "unet-image-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -592,12 +860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification",
+            "homepage": null,
             "id": 413053070,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-03T12:35:09Z",
+            "open_issues": 26,
             "owner": "szc19990412",
             "repo": "TransMIL",
-            "stars": 494
+            "stars": 494,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -608,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repo for the ICCV2021-CVAMD paper \"Is it Time to Replace CNNs with Transformers for Medical Images?\"",
+            "homepage": null,
             "id": 389925943,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-12T10:16:03Z",
+            "open_issues": 0,
             "owner": "ChrisMats",
             "repo": "medical_transformers",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -624,12 +902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 446205520,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-29T11:03:27Z",
+            "open_issues": 0,
             "owner": "jacenkow",
             "repo": "mmbt",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -640,12 +923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 446205520,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-29T11:03:27Z",
+            "open_issues": 0,
             "owner": "jacenkow",
             "repo": "mmbt",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -658,12 +946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 382714761,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-09-24T12:48:09Z",
+                "open_issues": 7,
                 "owner": "xiaohong1",
                 "repo": "COVID-ViT",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:41:25.701Z"
             }
@@ -685,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 342734763,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-25T19:09:09Z",
+            "open_issues": 2,
             "owner": "zzc623",
             "repo": "TransCT",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -701,12 +999,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021.  2) TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images(https://arxiv.org/abs/2201.12785).",
+            "homepage": null,
             "id": 344778476,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
+            "open_issues": 37,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "medical-image-segmentation",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -717,12 +1024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【MICCAI 2021】Task Transformer Network for Joint MRI Reconstruction and Super-Resolution",
+            "homepage": null,
             "id": 366485246,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-01T07:21:40Z",
+            "open_issues": 18,
             "owner": "chunmeifeng",
             "repo": "T2Net",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -733,12 +1045,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【IEEE TMI 2022】Accelerated Multi-Modal MR Imaging with Transformers",
+            "homepage": null,
             "id": 373295132,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-22T12:38:42Z",
+            "open_issues": 5,
             "owner": "chunmeifeng",
             "repo": "MTrans",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -749,12 +1066,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the paper: Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers",
+            "homepage": null,
             "id": 395072834,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-13T12:04:25Z",
+            "open_issues": 1,
             "owner": "icon-lab",
             "repo": "SLATER",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "adversarial",
+              "attention",
+              "deep-learning",
+              "mri-reconstruction",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -765,12 +1093,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ReconFormer: Accelerated MRI Reconstruction Using Recurrent Transformer",
+            "homepage": "https://arxiv.org/abs/2201.09376",
             "id": 449429855,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-03T11:37:11Z",
+            "open_issues": 10,
             "owner": "guopengf",
             "repo": "ReconFormer",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "deep-learning",
+              "mri-reconstruction",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -781,12 +1119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository includes implementation of CTformer on Low-dose CT Denoising",
+            "homepage": null,
             "id": 376672563,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-04T23:45:40Z",
+            "open_issues": 12,
             "owner": "wdayang",
             "repo": "CTformer",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -803,12 +1146,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vision Transformer for 3D medical image registration (Pytorch)",
+            "homepage": null,
             "id": 348884734,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-06T14:20:04Z",
+            "open_issues": 2,
             "owner": "junyuchen245",
             "repo": "ViT-V-Net_for_3D_Image_Registration_Pytorch",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "convolutional-neural-networks",
+              "image-registration",
+              "pytorch-implementation",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -819,12 +1172,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TransMorph: Transformer for Unsupervised Medical Image Registration (PyTorch)",
+            "homepage": null,
             "id": 381832216,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-22T20:52:49Z",
+            "open_issues": 7,
             "owner": "junyuchen245",
             "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "bayesian-deep-learning",
+              "deep-learning",
+              "diffeomorphism",
+              "image-alignment",
+              "image-registration",
+              "swin-transformer",
+              "transformer",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -835,12 +1202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official Pytorch implementation of \"Affine Medical Image Registration with Coarse-to-Fine Vision Transformer\" (CVPR 2022), written by Tony C. W. Mok and Albert C. S. Chung.",
+            "homepage": null,
             "id": 465616993,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-02T13:45:28Z",
+            "open_issues": 5,
             "owner": "cwmok",
             "repo": "C2FViT",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -857,12 +1229,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV'21] [Tensorflow] Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers",
+            "homepage": null,
             "id": 357859502,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-02T07:42:55Z",
+            "open_issues": 6,
             "owner": "SharifAmit",
             "repo": "VTGAN",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "diabetic-retinopathy-detection",
+              "disease-prediction",
+              "fluorescein-angiography",
+              "fundus-image-analysis",
+              "generative-adversarial-network",
+              "semi-supervised-learning",
+              "vision-transformer",
+              "vision-transformers"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -873,12 +1259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pyramid Transformer Net (PTNet) for high resolution infant MRI synthesis",
+            "homepage": null,
             "id": 371486941,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-31T13:01:40Z",
+            "open_issues": 0,
             "owner": "XuzheZ",
             "repo": "PTNet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -889,12 +1280,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of ResViT: Residual Vision Transformers for Multi-modal Medical Image Synthesis",
+            "homepage": null,
             "id": 418492466,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-08T13:58:16Z",
+            "open_issues": 6,
             "owner": "icon-lab",
             "repo": "ResViT",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "attention",
+              "deep-learning",
+              "image-synthesis",
+              "image-to-image-translation",
+              "medical-imaging",
+              "mri",
+              "residual-learning",
+              "transformers",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -905,12 +1311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 405101924,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-09T10:38:34Z",
+            "open_issues": 5,
             "owner": "ristea",
             "repo": "cycle-transformer",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -927,12 +1338,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3D medical Detection Transformer library. Papers accepted @ MIDL22 & MELBA23/02.",
+            "homepage": "https://www.melba-journal.org/papers/2023:003.html",
             "id": 416794414,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-16T09:32:09Z",
+            "open_issues": 0,
             "owner": "bwittmann",
             "repo": "transoar",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "3d-detection",
+              "deep-learning",
+              "detection-transformer",
+              "medical-image-processing",
+              "pytorch",
+              "transformer",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -943,12 +1367,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3D medical Detection Transformer library. Papers accepted @ MIDL22 & MELBA23/02.",
+            "homepage": "https://www.melba-journal.org/papers/2023:003.html",
             "id": 416794414,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-16T09:32:09Z",
+            "open_issues": 0,
             "owner": "bwittmann",
             "repo": "transoar",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "3d-detection",
+              "deep-learning",
+              "detection-transformer",
+              "medical-image-processing",
+              "pytorch",
+              "transformer",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -965,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code of Improving Factual Completeness and Consistency of Image-to-text Radiology Report Generation",
+            "homepage": null,
             "id": 305496894,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-25T17:42:02Z",
+            "open_issues": 4,
             "owner": "ysmiura",
             "repo": "ifcc",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -981,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 300518123,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-14T10:56:21Z",
+            "open_issues": 28,
             "owner": "cuhksz-nlp",
             "repo": "R2Gen",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -997,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 311315572,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-11-19T16:41:41Z",
+            "open_issues": 0,
             "owner": "XuMengyaAmy",
             "repo": "ReportDALS",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1013,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAdiological Text Captioning for Human Examined Thoraxes",
+            "homepage": null,
             "id": 305999161,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-03T03:24:26Z",
+            "open_issues": 1,
             "owner": "farrell236",
             "repo": "RATCHET",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1029,12 +1486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 383070826,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-07-05T08:46:32Z",
+            "open_issues": 1,
             "owner": "XuMengyaAmy",
             "repo": "CIDACaptioning",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1045,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Generation of Accurate & Fluent Medical X-ray Reports",
+            "homepage": null,
             "id": 400387159,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-04T02:40:35Z",
+            "open_issues": 4,
             "owner": "ginobilinie",
             "repo": "xray_report_generation",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1061,12 +1528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official start-up code for paper \"FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark.\"",
+            "homepage": null,
             "id": 410244439,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-21T21:29:08Z",
+            "open_issues": 11,
             "owner": "mlii0117",
             "repo": "FFA-IR",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1077,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 422802713,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-08-17T02:10:27Z",
+            "open_issues": 6,
             "owner": "funnyzhou",
             "repo": "REFERS",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -1099,12 +1576,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images - ICCV 2021",
+            "homepage": null,
             "id": 358451746,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2022-03-11T20:42:18Z",
+            "open_issues": 13,
             "owner": "mahmoodlab",
             "repo": "MCAT",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "early-fusion",
+              "genomics",
+              "mahmoodlab",
+              "mcat",
+              "multimodal",
+              "multimodal-deep-learning",
+              "multimodal-fusion",
+              "pathology"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1115,12 +1606,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology (LMRL Workshop, NeurIPS 2021)",
+            "homepage": null,
             "id": 465509196,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-09T18:44:16Z",
+            "open_issues": 3,
             "owner": "Richarizardd",
             "repo": "Self-Supervised-ViT-Path",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "computational-pathology",
+              "deep-learning",
+              "histopathology",
+              "neurips",
+              "pretrained-weights",
+              "pytorch",
+              "self-supervised-learning",
+              "transfer-learning",
+              "unsupervised-learning",
+              "vision-transformer",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1131,12 +1639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code to apply vision transformers on surface data",
+            "homepage": null,
             "id": 457077959,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-13T20:38:24Z",
+            "open_issues": 0,
             "owner": "metrics-lab",
             "repo": "surface-vision-transformers",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         },
@@ -1147,12 +1660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code to apply vision transformers on surface data",
+            "homepage": null,
             "id": 457077959,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-13T20:38:24Z",
+            "open_issues": 0,
             "owner": "metrics-lab",
             "repo": "surface-vision-transformers",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
         }
@@ -1161,15 +1679,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:41:25.701Z",
+    "last_updated": "2026-08-29T04:30:59.308Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of resources on applications of Transformers in Medical Imaging.",
+      "homepage": null,
       "id": 434747216,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-21T11:56:54Z",
+      "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1296
+      "stars": 1296,
+      "topics": [
+        "awesome-list",
+        "brain-tumor-segmentation",
+        "brats2021",
+        "clinical-report",
+        "covid-19",
+        "deep-neural-networks",
+        "medical-image-analysis",
+        "medical-image-classification",
+        "medical-image-detection",
+        "medical-image-reconstruction",
+        "medical-image-registration",
+        "medical-image-segmentation",
+        "medical-image-synthesis",
+        "medical-imaging",
+        "medical-report-generate",
+        "transformers",
+        "vision-transformers"
+      ]
     },
     "original_repository_sha": "d7768e4860d121cbbb5c19bc81ec83d79cc893e0",
     "enhanced_repository": "enhansome/enhansome-transformers-in-medical-imaging",
