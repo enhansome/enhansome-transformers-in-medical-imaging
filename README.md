@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,892 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,058 | 🐛 105 | 📅 2026-08-21
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -412,7 +412,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers** \[12th Feb., 2022] \[👍ISBI, 2022].<br>
 *Grzegorz Jacenków, Alison Q. O'Neil, Sotirios A. Tsaftaris.*<br>
-\[[PDF](https://arxiv.org/abs/2202.06076)] \[[Github](https://github.com/jacenkow/mmbt) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-03-29]
+\[[PDF](https://arxiv.org/abs/2202.06076)] \[[Github](https://github.com/jacenkow/mmbt) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-03-29]
 
 **AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation.** \[13th Feb., 2022].<br>
 *Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Chang Min Park, Jong Chul Ye.*<br>
@@ -444,7 +444,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A graph-transformer for whole slide image classification** \[19th May, 2022].<br>
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama.*<br>
-\[[PDF](https://arxiv.org/abs/2205.09671)] \[[Github](https://github.com/jacenkow/mmbt) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-03-29]
+\[[PDF](https://arxiv.org/abs/2205.09671)] \[[Github](https://github.com/jacenkow/mmbt) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-03-29]
 
 **A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer** \[19th May, 2022].<br>
 *Weiming Hu, Haoyuan Chen, Wanli Liu, Xiaoyan Li, Hongzan Sun, Xinyu Huang, Marcin Grzegorzek, Chen Li.*<br>
