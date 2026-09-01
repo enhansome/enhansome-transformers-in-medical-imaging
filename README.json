@@ -984,7 +984,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-06-25T19:09:09Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "zzc623",
             "repo": "TransCT",
             "stars": 28,
@@ -1585,7 +1585,7 @@
             "open_issues": 13,
             "owner": "mahmoodlab",
             "repo": "MCAT",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "early-fusion",
               "genomics",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T18:41:38.892Z",
+    "last_updated": "2026-09-01T15:59:52.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",

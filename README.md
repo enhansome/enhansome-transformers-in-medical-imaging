@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,664 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,958 | 🐛 105 | 📅 2026-08-21
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -524,7 +524,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography.** \[28th Feb., 2021] \[⚡MICCAI, 2021].<br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
-\[[PDF](https://arxiv.org/abs/2103.00634)] \[[Github](https://github.com/zzc623/TransCT) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2021-06-25]
+\[[PDF](https://arxiv.org/abs/2103.00634)] \[[Github](https://github.com/zzc623/TransCT) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-06-25]
 
 **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** \[15th May, 2021].<br>
 *Yilmaz Korkmaz, Salman UH Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur.*<br>
@@ -781,7 +781,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images.** \[22nd Sep., 2021]. \[⚡ICCV, 2021]<br>
 *Chen, Richard J and Lu, Ming Y and Weng, Wei-Hung and Chen, Tiffany Y and Williamson, Drew FK and Manz, Trevor and Shady, Maha and Mahmood, Faisal.*<br>
-\[[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Multimodal_Co-Attention_Transformer_for_Survival_Prediction_in_Gigapixel_Whole_Slide_ICCV_2021_paper.pdf)]\[[Github](https://github.com/mahmoodlab/mcat) ⭐ 256 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2022-03-11]
+\[[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Multimodal_Co-Attention_Transformer_for_Survival_Prediction_in_Gigapixel_Whole_Slide_ICCV_2021_paper.pdf)]\[[Github](https://github.com/mahmoodlab/mcat) ⭐ 257 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2022-03-11]
 
 **Limitations of Transformers on Clinical Text Classification.** \[25th Sep., 2021].<br>
 *Shang Gao, Mohammed Alawad, M Todd Young, John Gounley, Noah Schaefferkoetter, Hong Jun Yoon, Xiao-Cheng Wu, Eric B Durbin, Jennifer Doherty, Antoinette Stroup, Linda Coyle, Georgia Tourassi.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
