@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "Rayicer",
             "repo": "TransFuse",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:51:21.366Z",
+    "last_updated": "2026-09-07T17:09:14.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1691,7 +1691,7 @@
       "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1297,
+      "stars": 1298,
       "topics": [
         "awesome-list",
         "brain-tumor-segmentation",
