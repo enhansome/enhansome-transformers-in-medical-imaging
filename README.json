@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3234,
+            "stars": 3235,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -335,7 +335,7 @@
             "open_issues": 78,
             "owner": "282857341",
             "repo": "nnFormer",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2683,
+            "stars": 2685,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:09:14.547Z",
+    "last_updated": "2026-09-08T15:54:45.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
