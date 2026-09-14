@@ -1,6 +1,6 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,655 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,987 | 🐛 106 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -70,7 +70,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** \[20th Nov., 2020] \[BIBM, 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
-\[[PDF](https://arxiv.org/abs/2011.09763)] \[[Github](https://github.com/ChristophReich1996/Cell-DETR) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2022-03-28]
+\[[PDF](https://arxiv.org/abs/2011.09763)] \[[Github](https://github.com/ChristophReich1996/Cell-DETR) ⭐ 108 | 🐛 4 | 🌐 Python | 📅 2022-03-28]
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** \[8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
