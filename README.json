@@ -180,7 +180,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220,
+            "stars": 1222,
             "topics": [
               "monai",
               "monai-components",
@@ -356,7 +356,7 @@
             "open_issues": 0,
             "owner": "McGregorWwww",
             "repo": "UCTransNet",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -511,7 +511,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220,
+            "stars": 1222,
             "topics": [
               "monai",
               "monai-components",
@@ -601,7 +601,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220,
+            "stars": 1222,
             "topics": [
               "monai",
               "monai-components",
@@ -699,7 +699,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220,
+            "stars": 1222,
             "topics": [
               "monai",
               "monai-components",
@@ -724,7 +724,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1220,
+            "stars": 1222,
             "topics": [
               "monai",
               "monai-components",
@@ -1128,7 +1128,7 @@
             "open_issues": 12,
             "owner": "wdayang",
             "repo": "CTformer",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T17:34:26.040Z",
+    "last_updated": "2026-09-15T16:08:53.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
