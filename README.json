@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "Rayicer",
             "repo": "TransFuse",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -113,7 +113,7 @@
             "open_issues": 4,
             "owner": "boxiangyun",
             "repo": "SpecTr",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -131,7 +131,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
             "stars": 451,
@@ -180,7 +180,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1222,
+            "stars": 1224,
             "topics": [
               "monai",
               "monai-components",
@@ -265,7 +265,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
             "stars": 451,
@@ -511,7 +511,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1222,
+            "stars": 1224,
             "topics": [
               "monai",
               "monai-components",
@@ -601,7 +601,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1222,
+            "stars": 1224,
             "topics": [
               "monai",
               "monai-components",
@@ -644,7 +644,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
             "stars": 451,
@@ -699,7 +699,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1222,
+            "stars": 1224,
             "topics": [
               "monai",
               "monai-components",
@@ -724,7 +724,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1222,
+            "stars": 1224,
             "topics": [
               "monai",
               "monai-components",
@@ -1005,7 +1005,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-03-11T10:27:01Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
             "stars": 451,
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T16:08:58.893Z",
+    "last_updated": "2026-09-18T15:44:38.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1691,7 +1691,7 @@
       "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1296,
+      "stars": 1295,
       "topics": [
         "awesome-list",
         "brain-tumor-segmentation",
