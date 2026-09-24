@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3239,
+            "stars": 3240,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -134,7 +134,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -268,7 +268,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -647,7 +647,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -869,7 +869,7 @@
             "open_issues": 26,
             "owner": "szc19990412",
             "repo": "TransMIL",
-            "stars": 494,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1008,7 +1008,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -1432,7 +1432,7 @@
             "open_issues": 28,
             "owner": "cuhksz-nlp",
             "repo": "R2Gen",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T16:00:18.789Z",
+    "last_updated": "2026-09-24T16:25:15.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1691,7 +1691,7 @@
       "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1296,
+      "stars": 1297,
       "topics": [
         "awesome-list",
         "brain-tumor-segmentation",
