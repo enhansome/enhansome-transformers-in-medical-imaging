@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T16:25:14.883Z",
+    "last_updated": "2026-09-26T15:40:20.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1691,7 +1691,7 @@
       "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1297,
+      "stars": 1298,
       "topics": [
         "awesome-list",
         "brain-tumor-segmentation",
