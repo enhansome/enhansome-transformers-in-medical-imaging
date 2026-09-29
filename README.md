@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,930 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,339 | 🐛 106 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -126,7 +126,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers.** \[20th May, 2021] \[⚡IJCAI, 2021].<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh.*<br>
-\[[PDF](https://arxiv.org/abs/2105.09511)] \[[Github](https://github.com/askerlee/segtran) ⭐ 229 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
+\[[PDF](https://arxiv.org/abs/2105.09511)] \[[Github](https://github.com/askerlee/segtran) ⭐ 228 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
 
 **A Multi-Branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation.** \[21st May, 2021] \[⚡MICCAI, 2021].<br>
 *Yinglin Zhang, Risa Higashita, Huazhu Fu, Yanwu Xu, Yang Zhang, Haofeng Liu, Jian Zhang, Jiang Liu.*<br>
@@ -142,11 +142,11 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Multi-Compound Transformer for Accurate Biomedical Image Segmentation.** \[28th June, 2021] \[⚡MICCAI, 2021].<br>
 *Yuanfeng Ji, Ruimao Zhang, Huijie Wang, Zhen Li, Lingyun Wu, Shaoting Zhang, Ping Luo.*<br>
-\[[PDF](https://arxiv.org/abs/2106.14385)] \[[Github](https://github.com/JiYuanFeng/MCTrans) ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2021-07-28]
+\[[PDF](https://arxiv.org/abs/2106.14385)] \[[Github](https://github.com/JiYuanFeng/MCTrans) ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2021-07-28]
 
 **UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation.** \[2nd July, 2021] \[⚡MICCAI, 2021].<br>
 *Yunhe Gao, Mu Zhou, Dimitris Metaxas.*<br>
-\[[PDF](https://arxiv.org/abs/2107.04805)] \[[Github](https://github.com/askerlee/segtran) ⭐ 229 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
+\[[PDF](https://arxiv.org/abs/2107.04805)] \[[Github](https://github.com/askerlee/segtran) ⭐ 228 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
 
 **Few-Shot Domain Adaptation with Polymorphic Transformers.** \[10th July, 2021] \[⚡MICCAI, 2021].<br>
 *Shaohua Li, Xiuchao Sui, Jie Fu, Huazhu Fu, Xiangde Luo, Yangqin Feng, Xinxing Xu, Yong Liu, Daniel Ting, Rick Siow Mong Goh.*<br>
@@ -659,7 +659,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **ResViT: Residual vision transformers for multi-modal medical image synthesis.** \[30th June, 2021].<br>
 *Onat Dalmaz, Mahmut Yurt, Tolga Çukur.*<br>
-\[[PDF](https://arxiv.org/abs/2106.16031)] \[[Github](https://github.com/icon-lab/ResViT) ⭐ 187 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
+\[[PDF](https://arxiv.org/abs/2106.16031)] \[[Github](https://github.com/icon-lab/ResViT) ⭐ 186 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
 
 **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation.** \[12th Oct., 2021].<br>
 *Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu.*<br>
@@ -715,7 +715,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.** \[20th Oct., 2020].\[NAACL, 2020]<br>
 *Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>
-\[[PDF](https://arxiv.org/abs/2010.10042)] \[[Github](https://github.com/ysmiura/ifcc) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2022-03-25]
+\[[PDF](https://arxiv.org/abs/2010.10042)] \[[Github](https://github.com/ysmiura/ifcc) ⭐ 90 | 🐛 4 | 🌐 Python | 📅 2022-03-25]
 
 **Generating Radiology Reports via Memory-driven Transformer.** \[30th Oct., 2020].\[EMNLP, 2020]<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
