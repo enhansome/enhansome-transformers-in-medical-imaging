@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,367 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,562 | 🐛 106 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -126,7 +126,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers.** \[20th May, 2021] \[⚡IJCAI, 2021].<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh.*<br>
-\[[PDF](https://arxiv.org/abs/2105.09511)] \[[Github](https://github.com/askerlee/segtran) ⭐ 228 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
+\[[PDF](https://arxiv.org/abs/2105.09511)] \[[Github](https://github.com/askerlee/segtran) ⭐ 227 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
 
 **A Multi-Branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation.** \[21st May, 2021] \[⚡MICCAI, 2021].<br>
 *Yinglin Zhang, Risa Higashita, Huazhu Fu, Yanwu Xu, Yang Zhang, Haofeng Liu, Jian Zhang, Jiang Liu.*<br>
@@ -146,7 +146,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation.** \[2nd July, 2021] \[⚡MICCAI, 2021].<br>
 *Yunhe Gao, Mu Zhou, Dimitris Metaxas.*<br>
-\[[PDF](https://arxiv.org/abs/2107.04805)] \[[Github](https://github.com/askerlee/segtran) ⭐ 228 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
+\[[PDF](https://arxiv.org/abs/2107.04805)] \[[Github](https://github.com/askerlee/segtran) ⭐ 227 | 🐛 10 | 🌐 Python | 📅 2022-06-15]
 
 **Few-Shot Domain Adaptation with Polymorphic Transformers.** \[10th July, 2021] \[⚡MICCAI, 2021].<br>
 *Shaohua Li, Xiuchao Sui, Jie Fu, Huazhu Fu, Xiangde Luo, Yangqin Feng, Xinxing Xu, Yong Liu, Daniel Ting, Rick Siow Mong Goh.*<br>
@@ -625,7 +625,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** \[13th April, 2021] \[👍MIDL Short Paper, 2021].<br>
 *Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
-\[[PDF](https://arxiv.org/abs/2104.06468)] \[[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) ⭐ 350 | 🐛 2 | 🌐 Python | 📅 2022-11-06]
+\[[PDF](https://arxiv.org/abs/2104.06468)] \[[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) ⭐ 349 | 🐛 2 | 🌐 Python | 📅 2022-11-06]
 
 **Attention for Image Registration (AiR): an unsupervised Transformer approach.** \[5th May, 2021].<br>
 *Zihao Wang, Hervé Delingette.*<br>
