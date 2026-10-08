@@ -180,7 +180,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "monai",
               "monai-components",
@@ -511,7 +511,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "monai",
               "monai-components",
@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2691,
+            "stars": 2692,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -601,7 +601,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "monai",
               "monai-components",
@@ -699,7 +699,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "monai",
               "monai-components",
@@ -724,7 +724,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "monai",
               "monai-components",
@@ -1289,7 +1289,7 @@
             "open_issues": 6,
             "owner": "icon-lab",
             "repo": "ResViT",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "attention",
               "deep-learning",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T18:22:21.736Z",
+    "last_updated": "2026-10-08T18:21:41.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
