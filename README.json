@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3246,
+            "stars": 3247,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -134,7 +134,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -180,7 +180,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "monai",
               "monai-components",
@@ -268,7 +268,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -511,7 +511,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "monai",
               "monai-components",
@@ -601,7 +601,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "monai",
               "monai-components",
@@ -647,7 +647,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -699,7 +699,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "monai",
               "monai-components",
@@ -724,7 +724,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "monai",
               "monai-components",
@@ -1008,7 +1008,7 @@
             "open_issues": 38,
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "medical-image-segmentation",
               "pytorch",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:54:52.973Z",
+    "last_updated": "2026-10-10T16:53:11.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
