@@ -314,7 +314,7 @@
             "open_issues": 7,
             "owner": "DengPingFan",
             "repo": "Polyp-PVT",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -356,7 +356,7 @@
             "open_issues": 0,
             "owner": "McGregorWwww",
             "repo": "UCTransNet",
-            "stars": 438,
+            "stars": 437,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:53:11.414Z",
+    "last_updated": "2026-10-11T17:15:51.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",

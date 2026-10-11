@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,128 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,579 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -166,7 +166,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers.** \[16th August, 2021].<br>
 *Bo Dong, Wenhai Wang, Deng-Ping Fan, Jinpeng Li, Huazhu Fu, Ling Shao.*<br>
-\[[PDF](https://arxiv.org/abs/2108.06932)] \[[Github](https://github.com/DengPingFan/Polyp-PVT) ⭐ 268 | 🐛 7 | 🌐 Python | 📅 2023-11-01]
+\[[PDF](https://arxiv.org/abs/2108.06932)] \[[Github](https://github.com/DengPingFan/Polyp-PVT) ⭐ 269 | 🐛 7 | 🌐 Python | 📅 2023-11-01]
 
 **Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation.** \[26th August, 2021].<br>
 *Cam Nguyen, Zuhayr Asad, Yuankai Huo.*<br>
@@ -182,7 +182,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer.** \[9th, Sep.,].<br>
 *Haonan Wang, Peng Cao, Jiaqi Wang, Osmar R.Zaiane.*<br>
-\[[PDF](https://arxiv.org/abs/2109.04335)] \[[Github](https://github.com/mcgregorwwww/uctransnet) ⭐ 438 | 🐛 0 | 🌐 Python | 📅 2024-05-19]
+\[[PDF](https://arxiv.org/abs/2109.04335)] \[[Github](https://github.com/mcgregorwwww/uctransnet) ⭐ 437 | 🐛 0 | 🌐 Python | 📅 2024-05-19]
 
 **MISSFormer: An Effective Medical Image Segmentation Transformer.** \[15th, Sep. 2021].<br>
 *Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
