@@ -92,7 +92,7 @@
             "open_issues": 4,
             "owner": "YtongXie",
             "repo": "CoTr",
-            "stars": 334,
+            "stars": 333,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -672,7 +672,7 @@
             "open_issues": 8,
             "owner": "yhygao",
             "repo": "CBIM-Medical-Image-Segmentation",
-            "stars": 344,
+            "stars": 343,
             "topics": [
               "deep-learning",
               "medical-image-segmentation",
@@ -1181,7 +1181,7 @@
             "open_issues": 7,
             "owner": "junyuchen245",
             "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "bayesian-deep-learning",
               "deep-learning",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:50:37.692Z",
+    "last_updated": "2026-10-13T18:49:02.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",

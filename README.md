@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,117 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,555 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -90,7 +90,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation.** \[4th March, 2021] \[⚡MICCAI, 2021].<br>
 *Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia.*<br>
-\[[PDF](https://arxiv.org/abs/2103.03024)] \[[Github](https://github.com/YtongXie/CoTr) ⭐ 334 | 🐛 4 | 🌐 Python | 📅 2024-09-17]
+\[[PDF](https://arxiv.org/abs/2103.03024)] \[[Github](https://github.com/YtongXie/CoTr) ⭐ 333 | 🐛 4 | 🌐 Python | 📅 2024-09-17]
 
 **SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation.** \[5th March, 2021].<br>
 *Boxiang Yun, Yan Wang, Jieneng Chen, Huiyu Wang, Wei Shen, Qingli Li.*<br>
@@ -294,7 +294,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks.** \[28th Feb., 2022].<br>
 *Yunhe Gao, Mu Zhou, Di Liu, Dimitris Metaxas.*<br>
-\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 344 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
+\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 343 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
 
 **Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation.** \[1st March, 2022].<br>
 *Christoforos Galazis, Huiyi Wu, Zhuoyu Li, Camille Petri, Anil A. Bharath, Marta Varela.*<br>
@@ -637,7 +637,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMorph: Transformer for unsupervised medical image registration.** \[19th Nov., 2021].<br>
 *Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 633 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 634 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **A Transformer-based Network for Deformable Medical Image Registration.** \[24th Feb., 2022].<br>
 *Yibo Wang, Wen Qian, Xuming Zhang.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
