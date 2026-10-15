@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2698,
+            "stars": 2699,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -1585,7 +1585,7 @@
             "open_issues": 13,
             "owner": "mahmoodlab",
             "repo": "MCAT",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "early-fusion",
               "genomics",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T16:26:12.081Z",
+    "last_updated": "2026-10-15T16:13:26.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
