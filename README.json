@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2699,
+            "stars": 2700,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -1615,7 +1615,7 @@
             "open_issues": 3,
             "owner": "Richarizardd",
             "repo": "Self-Supervised-ViT-Path",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "computational-pathology",
               "deep-learning",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T16:13:26.891Z",
+    "last_updated": "2026-10-16T15:59:48.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1691,7 +1691,7 @@
       "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1297,
+      "stars": 1298,
       "topics": [
         "awesome-list",
         "brain-tumor-segmentation",

@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,355 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,850 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,699 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,700 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -817,7 +817,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology.** \[1st March, 2022].<br>
 *Richard J. Chen, Rahul G. Krishnan.*<br>
-\[[PDF](https://arxiv.org/abs/2203.00585)]\[[Github](https://github.com/Richarizardd/Self-Supervised-ViT-Path) ⭐ 145 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-06-09]
+\[[PDF](https://arxiv.org/abs/2203.00585)]\[[Github](https://github.com/Richarizardd/Self-Supervised-ViT-Path) ⭐ 146 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-06-09]
 
 **Characterizing Renal Structures with 3D Block Aggregate Transformers.** \[4th March, 2022].<br>
 *Xin Yu, Yucheng Tang, Yinchi Zhou, Riqiang Gao, Qi Yang, Ho Hin Lee, Thomas Li, Shunxing Bao, Yuankai Huo, Zhoubing Xu, Thomas A. Lasko, Richard G. Abramson, Bennett A. Landman.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
