@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,306 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,803 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -637,7 +637,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMorph: Transformer for unsupervised medical image registration.** \[19th Nov., 2021].<br>
 *Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 635 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 634 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **A Transformer-based Network for Deformable Medical Image Registration.** \[24th Feb., 2022].<br>
 *Yibo Wang, Wen Qian, Xuming Zhang.*<br>
@@ -659,7 +659,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **ResViT: Residual vision transformers for multi-modal medical image synthesis.** \[30th June, 2021].<br>
 *Onat Dalmaz, Mahmut Yurt, Tolga Çukur.*<br>
-\[[PDF](https://arxiv.org/abs/2106.16031)] \[[Github](https://github.com/icon-lab/ResViT) ⭐ 186 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
+\[[PDF](https://arxiv.org/abs/2106.16031)] \[[Github](https://github.com/icon-lab/ResViT) ⭐ 185 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
 
 **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation.** \[12th Oct., 2021].<br>
 *Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

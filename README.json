@@ -1181,7 +1181,7 @@
             "open_issues": 7,
             "owner": "junyuchen245",
             "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
-            "stars": 635,
+            "stars": 634,
             "topics": [
               "bayesian-deep-learning",
               "deep-learning",
@@ -1289,7 +1289,7 @@
             "open_issues": 6,
             "owner": "icon-lab",
             "repo": "ResViT",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "attention",
               "deep-learning",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:52:52.847Z",
+    "last_updated": "2026-10-18T15:18:39.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
