@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,803 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,371 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -74,11 +74,11 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** \[8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,246 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,247 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** \[16th Feb., 2021] \[⚡MICCAI, 2021].<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
-\[[PDF](https://arxiv.org/abs/2102.08005)] \[[Github](https://github.com/Rayicer/TransFuse) ⭐ 215 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
+\[[PDF](https://arxiv.org/abs/2102.08005)] \[[Github](https://github.com/Rayicer/TransFuse) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2022-08-26]
 
 **Unsupervised Brain Anomaly Detection and Segmentation with Transformers.** \[23rd Feb., 2021] \[MIDL, 2021].<br>
 *Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, Robert Gray, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso.*<br>
@@ -102,7 +102,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **U-Net Transformer: Self and Cross Attention for Medical Image Segmentation.** \[10th March, 2021].<br>
 *Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler.*<br>
-\[[PDF](https://arxiv.org/abs/2103.06104)] \[[Github](https://github.com/HXLH50K/U-Net-Transformer) ⭐ 114 | 🐛 5 | 🌐 Python | 📅 2021-05-27]
+\[[PDF](https://arxiv.org/abs/2103.06104)] \[[Github](https://github.com/HXLH50K/U-Net-Transformer) ⭐ 115 | 🐛 5 | 🌐 Python | 📅 2021-05-27]
 
 **UNETR: Transformers for 3D Medical Image Segmentation .** \[18th March, 2021].<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu.*<br>
@@ -246,7 +246,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **FAT-Net: Feature Adaptive Transformers for Automated Skin Lesion Segmentation.** \[4th Dec., 2021] \[⚡MIA, 2021].<br>
 *Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
-\[[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003728)] \[[Github](https://github.com/SZUcsh/FAT-Net) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2022-04-11]
+\[[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003728)] \[[Github](https://github.com/SZUcsh/FAT-Net) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2022-04-11]
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
