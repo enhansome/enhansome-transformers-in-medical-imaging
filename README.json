@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3247,
+            "stars": 3248,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:16:26.921Z",
+    "last_updated": "2026-10-20T16:17:06.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
