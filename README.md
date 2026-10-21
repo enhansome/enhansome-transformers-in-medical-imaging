@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,807 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,247 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,700 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,701 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -294,7 +294,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks.** \[28th Feb., 2022].<br>
 *Yunhe Gao, Mu Zhou, Di Liu, Dimitris Metaxas.*<br>
-\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 343 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
+\[[PDF](https://arxiv.org/abs/2203.00131)] \[[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 342 | 🐛 8 | 🌐 Python | 📅 2024-04-15]
 
 **Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation.** \[1st March, 2022].<br>
 *Christoforos Galazis, Huiyi Wu, Zhuoyu Li, Camille Petri, Anil A. Bharath, Marta Varela.*<br>
@@ -380,7 +380,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification.** \[2nd June, 2021] \[⚡NeurIPS, 2021].<br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2106.00908)] \[[Github](https://github.com/szc19990412/TransMIL) ⭐ 495 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
+\[[PDF](https://arxiv.org/abs/2106.00908)] \[[Github](https://github.com/szc19990412/TransMIL) ⭐ 496 | 🐛 26 | 🌐 Python | 📅 2024-05-03]
 
 **Vision Transformer-based recognition of diabetic retinopathy grade.** \[15 July, 2021] \[⚡CVPR, 2021].<br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang.*<br>
@@ -833,11 +833,11 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis.** \[29th March, 2022]. \[MIDL, 2022]<br>
 *Simon Dahan, Abdulah Fawaz, Logan Z. J. Williams, Chunhui Yang, Timothy S. Coalson, Matthew F. Glasser, A. David Edwards, Daniel Rueckert, Emma C. Robinson.*<br>
-\[[PDF](https://arxiv.org/abs/2203.16414)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
+\[[PDF](https://arxiv.org/abs/2203.16414)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
 
 **Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces.** \[7th April, 2022]. \[MIDL, 2022]<br>
 *Simon Dahan, Hao Xu, Logan Z. J. Williams, Abdulah Fawaz, Chunhui Yang, Timothy S. Coalson, Michelle C. Williams, David E. Newby, A. David Edwards, Matthew F. Glasser, Alistair A. Young, Daniel Rueckert, Emma C. Robinson.*<br>
-\[[PDF](https://arxiv.org/abs/2204.03408)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
+\[[PDF](https://arxiv.org/abs/2204.03408)]\[[Github](https://github.com/metrics-lab/surface-vision-transformers) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-01-13]
 
 **3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume.** \[14th April, 2022]. \[MIDL, 2022]<br>
 *Jianye Pang, Cheng Jiang, Yihao Chen, Jianbo Chang, Ming Feng, Renzhi Wang, Jianhua Yao.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
