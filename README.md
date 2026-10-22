@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,247 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,779 | 🐛 105 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -74,7 +74,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** \[8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,248 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,249 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** \[16th Feb., 2021] \[⚡MICCAI, 2021].<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
@@ -266,7 +266,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **SegTransVAE: Hybrid CNN - Transformer with Regularization for medical image segmentation.** \[21st Jan., 2022].<br>
 *Quan-Dung Pham, Hai Nguyen-Truong, Nam Nguyen Phuong, Khoa N. A. Nguyen.*<br>
-\[[PDF](https://arxiv.org/pdf/2201.08582.pdf)] \[[Github](https://github.com/itruonghai/SegTransVAE) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2021-10-15]
+\[[PDF](https://arxiv.org/pdf/2201.08582.pdf)] \[[Github](https://github.com/itruonghai/SegTransVAE) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2021-10-15]
 
 **Class-Aware Generative Adversarial Transformers for Medical Image Segmentation.** \[26th Jan., 2022].<br>
 *Chenyu You, Ruihan Zhao, Fenglin Liu, Sandeep Chinchali, Ufuk Topcu, Lawrence Staib, James S. Duncan.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
