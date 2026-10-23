@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2701,
+            "stars": 2703,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -1289,7 +1289,7 @@
             "open_issues": 6,
             "owner": "icon-lab",
             "repo": "ResViT",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "attention",
               "deep-learning",
@@ -1432,7 +1432,7 @@
             "open_issues": 28,
             "owner": "cuhksz-nlp",
             "repo": "R2Gen",
-            "stars": 207,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T16:33:13.990Z",
+    "last_updated": "2026-10-23T16:22:53.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1691,7 +1691,7 @@
       "open_issues": 2,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
-      "stars": 1298,
+      "stars": 1297,
       "topics": [
         "awesome-list",
         "brain-tumor-segmentation",
