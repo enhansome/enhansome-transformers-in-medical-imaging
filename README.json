@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3249,
+            "stars": 3250,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -159,7 +159,7 @@
             "open_issues": 5,
             "owner": "HXLH50K",
             "repo": "U-Net-Transformer",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T16:22:53.274Z",
+    "last_updated": "2026-10-24T15:19:10.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
