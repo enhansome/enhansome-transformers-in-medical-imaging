@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2703,
+            "stars": 2702,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -672,7 +672,7 @@
             "open_issues": 8,
             "owner": "yhygao",
             "repo": "CBIM-Medical-Image-Segmentation",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "deep-learning",
               "medical-image-segmentation",
@@ -1289,7 +1289,7 @@
             "open_issues": 6,
             "owner": "icon-lab",
             "repo": "ResViT",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "attention",
               "deep-learning",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T15:19:10.415Z",
+    "last_updated": "2026-10-25T15:28:48.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
