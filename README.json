@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3250,
+            "stars": 3251,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -869,7 +869,7 @@
             "open_issues": 26,
             "owner": "szc19990412",
             "repo": "TransMIL",
-            "stars": 496,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T15:28:48.833Z",
+    "last_updated": "2026-10-26T18:09:46.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
@@ -1688,7 +1688,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-21T11:56:54Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "fahadshamshad",
       "repo": "awesome-transformers-in-medical-imaging",
       "stars": 1297,
