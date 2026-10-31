@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3250,
+            "stars": 3247,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -335,7 +335,7 @@
             "open_issues": 78,
             "owner": "282857341",
             "repo": "nnFormer",
-            "stars": 791,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -833,7 +833,7 @@
             "open_issues": 12,
             "owner": "xmindflow",
             "repo": "DAEFormer",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "deep-learning",
               "efficient-transformers",
@@ -1181,7 +1181,7 @@
             "open_issues": 7,
             "owner": "junyuchen245",
             "repo": "TransMorph_Transformer_for_Medical_Image_Registration",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "bayesian-deep-learning",
               "deep-learning",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T17:39:44.587Z",
+    "last_updated": "2026-10-31T16:44:54.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
