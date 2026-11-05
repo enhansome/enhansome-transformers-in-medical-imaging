@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,858 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,641 | 🐛 103 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -178,7 +178,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **nnFormer: Interleaved Transformer for Volumetric Segmentation.** \[7th Sep., 2021].<br>
 *Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu.*<br>
-\[[PDF](https://arxiv.org/abs/2109.03201)] \[[Github](https://github.com/282857341/nnformer) ⭐ 792 | 🐛 78 | 🌐 Python | 📅 2022-08-05]
+\[[PDF](https://arxiv.org/abs/2109.03201)] \[[Github](https://github.com/282857341/nnformer) ⭐ 793 | 🐛 78 | 🌐 Python | 📅 2022-08-05]
 
 **UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer.** \[9th, Sep.,].<br>
 *Haonan Wang, Peng Cao, Jiaqi Wang, Osmar R.Zaiane.*<br>
@@ -645,7 +645,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** \[29th March, 2022].<br>
 *Tony C. W. Mok, Albert C. S. Chung.*<br>
-\[[PDF](https://arxiv.org/abs/2203.15216)] \[[Github](https://github.com/cwmok/C2FViT) ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
+\[[PDF](https://arxiv.org/abs/2203.15216)] \[[Github](https://github.com/cwmok/C2FViT) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
 
 # Synthesis
 
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
