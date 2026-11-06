@@ -578,7 +578,7 @@
             "open_issues": 36,
             "owner": "HiLab-git",
             "repo": "SSL4MIS",
-            "stars": 2703,
+            "stars": 2704,
             "topics": [
               "semi-supervised-learning"
             ]
@@ -1102,7 +1102,7 @@
             "open_issues": 10,
             "owner": "guopengf",
             "repo": "ReconFormer",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "deep-learning",
               "mri-reconstruction",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:26:35.471Z",
+    "last_updated": "2026-11-06T18:49:45.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
