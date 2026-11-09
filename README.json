@@ -869,7 +869,7 @@
             "open_issues": 26,
             "owner": "szc19990412",
             "repo": "TransMIL",
-            "stars": 495,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:33:25.820Z",
+    "last_updated": "2026-11-09T21:53:12.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
