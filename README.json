@@ -50,7 +50,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3250,
+            "stars": 3252,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -314,7 +314,7 @@
             "open_issues": 7,
             "owner": "DengPingFan",
             "repo": "Polyp-PVT",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T21:41:25.701Z"
@@ -475,7 +475,7 @@
             "open_issues": 7,
             "owner": "himashi92",
             "repo": "VT-UNet",
-            "stars": 278,
+            "stars": 277,
             "topics": [
               "3d-medical-imaging-segmentation",
               "brats-dataset",
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T19:15:16.022Z",
+    "last_updated": "2026-11-11T19:11:52.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources on applications of Transformers in Medical Imaging.",
