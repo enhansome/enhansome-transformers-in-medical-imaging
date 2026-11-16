@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,372 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,954 | 🐛 104 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -98,7 +98,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.** \[7th March, 2021] \[⚡MICCAI, 2021].<br>
 *Wenxuan Wang, Chen Chen, Meng Ding, Jiangyun Li, Hong Yu, Sen Zha.*<br>
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **U-Net Transformer: Self and Cross Attention for Medical Image Segmentation.** \[10th March, 2021].<br>
 *Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler.*<br>
@@ -150,7 +150,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Few-Shot Domain Adaptation with Polymorphic Transformers.** \[10th July, 2021] \[⚡MICCAI, 2021].<br>
 *Shaohua Li, Xiuchao Sui, Jie Fu, Huazhu Fu, Xiangde Luo, Yangqin Feng, Xinxing Xu, Yong Liu, Daniel Ting, Rick Siow Mong Goh.*<br>
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation.** \[12th July, 2021].<br>
 *Yao Chang, Hu Menghan, Zhai Guangtao, Zhang Xiao-Ping.*<br>
@@ -230,7 +230,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **A Volumetric Transformer for Accurate 3D Tumor Segmentation.** \[26th Nov., 2021].<br>
 *Himashi Peiris, Munawar Hayat, Zhaolin Chen, Gary Egan, Mehrtash Harandi.*<br>
-\[[PDF](https://arxiv.org/abs/2111.13300)] \[[Github](https://github.com/himashi92/vt-unet) ⭐ 277 | 🐛 7 | 🌐 Python | 📅 2023-09-11]
+\[[PDF](https://arxiv.org/abs/2111.13300)] \[[Github](https://github.com/himashi92/vt-unet) ⭐ 278 | 🐛 7 | 🌐 Python | 📅 2023-09-11]
 
 **Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction.** \[26th Nov., 2021].<br>
 *Xiangyu Meng, Xudong Zhang, Gan Wang, Ying Zhang, Xin Shi, Huanhuan Dai, Zixuan Wang, Xun Wang.*<br>
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,705 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,706 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -286,7 +286,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation.** \[30th Jan., 2022].<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang.*<br>
-\[[PDF](https://arxiv.org/abs/2201.12785)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2201.12785)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery.** \[30th Jan., 2022].<br>
 *Zixu Zhao, Yueming Jin, Pheng-Ann Heng.*<br>
@@ -528,7 +528,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** \[15th May, 2021].<br>
 *Yilmaz Korkmaz, Salman UH Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur.*<br>
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** \[8th June, 2021].<br>
 *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
@@ -739,7 +739,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting.** \[5th July, 2021].\[⚡MICCAI, 2021]<br>
 *Benjamin Hou, Georgios Kaissis, Ronald Summers, Bernhard Kainz.*<br>
-\[[PDF](https://arxiv.org/abs/2107.02104)] \[[Github](https://github.com/farrell236/RATCHET) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2023-09-03]
+\[[PDF](https://arxiv.org/abs/2107.02104)] \[[Github](https://github.com/farrell236/RATCHET) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2023-09-03]
 
 **Surgical Instruction Generation with Transformers.** \[14th July, 2021].\[⚡MICCAI, 2021]<br>
 *Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
