@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,472 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,950 | 🐛 104 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -74,7 +74,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** \[8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,253 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,252 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** \[16th Feb., 2021] \[⚡MICCAI, 2021].<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
@@ -106,7 +106,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **UNETR: Transformers for 3D Medical Image Segmentation .** \[18th March, 2021].<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu.*<br>
-\[[PDF](https://arxiv.org/abs/2103.10504)] \[[Github](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2103.10504)] \[[Github](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **Medical Transformer: Universal Brain Encoder for 3D MRI Analysis.** \[28th April, 2021].<br>
 *Eunji Jun, Seungwoo Jeong, Da-Woon Heo, Heung-Il Suk.*<br>
@@ -238,7 +238,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis.** \[29th Nov., 2021].<br>
 *Yucheng Tang, Dong Yang, Wenqi Li, Holger Roth, Bennett Landman, Daguang Xu, Vishwesh Nath, Ali Hatamizadeh.*<br>
-\[[PDF](https://arxiv.org/abs/2111.14791)] \[[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2111.14791)] \[[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification.** \[3rd Dec., 2021].<br>
 *Jingye Chen, Jieneng Chen, Zongwei Zhou, Bin Li, Alan Yuille, Yongyi Lu.*<br>
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,706 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,707 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -258,7 +258,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images.** \[4th Jan., 2022].<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*<br>
-\[[PDF](https://arxiv.org/abs/2201.01266)] \[[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2201.01266)] \[[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **HT-Net: hierarchical context-attention transformer network for medical ct image segmentation.** \[15th Jan., 2022].<br>
 *Mingjun Ma, Haiying Xia, Yumei Tan, Haisheng Li, Shuxiang Song .*<br>
@@ -318,7 +318,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation.** \[1st April, 2022].<br>
 *Ali Hatamizadeh, Ziyue Xu, Dong Yang, Wenqi Li, Holger Roth, Daguang Xu.*<br>
-\[[PDF](https://arxiv.org/abs/2204.00631)] \[[Github](https://github.com/Project-MONAI/research-contributions) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2204.00631)] \[[Github](https://github.com/Project-MONAI/research-contributions) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **CCAT-NET: A Novel Transformer Based Semi-supervised Framework for Covid-19 Lung Lesion Segmentation.** \[6th April, 2022].<br>
 *Mingyang Liu, Li Xiao, Huiqin Jiang, Qing He.*<br>
@@ -342,7 +342,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Transformer based Generative Adversarial Network for Liver Segmentation.** \[21st May, 2022].<br>
 *Ugur Demir, Zheyuan Zhang, Bin Wang, Matthew Antalek, Elif Keles, Debesh Jha, Amir Borhani, Daniela Ladner, Ulas Bagci.*<br>
-\[[PDF](https://arxiv.org/abs/2205.10663)]\[[Github](https://github.com/Project-MONAI/research-contributions) ⭐ 1,226 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
+\[[PDF](https://arxiv.org/abs/2205.10663)]\[[Github](https://github.com/Project-MONAI/research-contributions) ⭐ 1,227 | 🐛 118 | 🌐 Python | 📅 2026-11-01]
 
 **An uncertainty-aware transformer for MRI cardiac semantic segmentation via mean teachers.** \[25th Jul, 2022] \[MIUA, 2022].<br>
 *Ziyang Wang, Jian-Qing Zheng, Irina Voiculescu.*<br>
@@ -366,7 +366,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation.** \[27th Jan., 2023].<br>
 *Reza Azad, René Arimond, Ehsan Khodapanah Aghdam, Amirhossein Kazerouni, Dorit Merhof.*<br>
-\[[PDF](https://arxiv.org/abs/2212.13504)]\[[Github](https://github.com/mindflow-institue/DAEFormer) ⭐ 129 | 🐛 12 | 🌐 Python | 📅 2023-10-12]
+\[[PDF](https://arxiv.org/abs/2212.13504)]\[[Github](https://github.com/mindflow-institue/DAEFormer) ⭐ 128 | 🐛 12 | 🌐 Python | 📅 2023-10-12]
 
 # Classification
 
@@ -637,7 +637,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMorph: Transformer for unsupervised medical image registration.** \[19th Nov., 2021].<br>
 *Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 639 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 640 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **A Transformer-based Network for Deformable Medical Image Registration.** \[24th Feb., 2022].<br>
 *Yibo Wang, Wen Qian, Xuming Zhang.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
