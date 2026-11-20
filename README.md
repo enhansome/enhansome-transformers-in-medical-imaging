@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,452 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,943 | 🐛 103 | 📅 2026-09-02
 
 # Awesome This repository complements our survey paper Transformers in Medical Imaging: A Survey, published in Medical Image Analysis. with stars
 
@@ -74,7 +74,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** \[8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,251 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
+\[[PDF](https://arxiv.org/abs/2102.04306)] \[[Github](https://github.com/Beckschen/TransUNet) ⭐ 3,250 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 
 **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** \[16th Feb., 2021] \[⚡MICCAI, 2021].<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
@@ -98,7 +98,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.** \[7th March, 2021] \[⚡MICCAI, 2021].<br>
 *Wenxuan Wang, Chen Chen, Meng Ding, Jiangyun Li, Hong Yu, Sen Zha.*<br>
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **U-Net Transformer: Self and Cross Attention for Medical Image Segmentation.** \[10th March, 2021].<br>
 *Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler.*<br>
@@ -150,7 +150,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Few-Shot Domain Adaptation with Polymorphic Transformers.** \[10th July, 2021] \[⚡MICCAI, 2021].<br>
 *Shaohua Li, Xiuchao Sui, Jie Fu, Huazhu Fu, Xiangde Luo, Yangqin Feng, Xinxing Xu, Yong Liu, Daniel Ting, Rick Siow Mong Goh.*<br>
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation.** \[12th July, 2021].<br>
 *Yao Chang, Hu Menghan, Zhai Guangtao, Zhang Xiao-Ping.*<br>
@@ -250,7 +250,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** \[9th Dec., 2021].<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
-\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,708 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
+\[[PDF](https://arxiv.org/abs/2112.04894v1)] \[[Github](https://github.com/HiLab-git/SSL4MIS) ⭐ 2,707 | 🐛 36 | 🌐 Python | 📅 2025-06-07]
 
 **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** \[3rd Jan., 2022].<br>
 *Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
@@ -286,7 +286,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation.** \[30th Jan., 2022].<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang.*<br>
-\[[PDF](https://arxiv.org/abs/2201.12785)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2201.12785)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery.** \[30th Jan., 2022].<br>
 *Zixu Zhao, Yueming Jin, Pheng-Ann Heng.*<br>
@@ -528,7 +528,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** \[15th May, 2021].<br>
 *Yilmaz Korkmaz, Salman UH Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur.*<br>
-\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+\[[PDF](https://arxiv.org/abs/2103.04430)] \[[Github](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 
 **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** \[8th June, 2021].<br>
 *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
@@ -637,7 +637,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **TransMorph: Transformer for unsupervised medical image registration.** \[19th Nov., 2021].<br>
 *Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
-\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 640 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
+\[[PDF](https://arxiv.org/abs/2111.10480)] \[[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) ⭐ 641 | 🐛 7 | 🌐 Python | 📅 2025-05-22]
 
 **A Transformer-based Network for Deformable Medical Image Registration.** \[24th Feb., 2022].<br>
 *Yibo Wang, Wen Qian, Xuming Zhang.*<br>
@@ -645,7 +645,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** \[29th March, 2022].<br>
 *Tony C. W. Mok, Albert C. S. Chung.*<br>
-\[[PDF](https://arxiv.org/abs/2203.15216)] \[[Github](https://github.com/cwmok/C2FViT) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
+\[[PDF](https://arxiv.org/abs/2203.15216)] \[[Github](https://github.com/cwmok/C2FViT) ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
 
 # Synthesis
 
@@ -659,7 +659,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 
 **ResViT: Residual vision transformers for multi-modal medical image synthesis.** \[30th June, 2021].<br>
 *Onat Dalmaz, Mahmut Yurt, Tolga Çukur.*<br>
-\[[PDF](https://arxiv.org/abs/2106.16031)] \[[Github](https://github.com/icon-lab/ResViT) ⭐ 185 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
+\[[PDF](https://arxiv.org/abs/2106.16031)] \[[Github](https://github.com/icon-lab/ResViT) ⭐ 186 | 🐛 6 | 🌐 Python | 📅 2023-05-08]
 
 **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation.** \[12th Oct., 2021].<br>
 *Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu.*<br>
@@ -888,4 +888,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
